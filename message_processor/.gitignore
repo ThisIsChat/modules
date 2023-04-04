@@ -43,6 +43,9 @@ build/
 # Log file
 *.log
 
+# Tmp dir
+**/tmp/**
+
 # BlueJ files
 *.ctxt
 
